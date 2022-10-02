@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [resume.html](resume.html)
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am funny ***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukim7&show_icons=true&locale=en" alt="mukim7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukim7&" alt="mukim7" /></p>
-
